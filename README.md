@@ -15,7 +15,7 @@ A modern, secure, real-time chat application built with Next.js, Socket.IO, Mong
 - **Styling:** CSS Modules
 - **Email:** Nodemailer
 
----
+--
 
 ##  Features
 
