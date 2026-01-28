@@ -4,8 +4,6 @@ A modern, secure, real-time chat application built with Next.js, Socket.IO, Mong
 
 ---
 
-
-
 ##  Tech Stack.
 
 - **Frontend:** Next.js, React, TypeScript
